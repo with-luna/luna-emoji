@@ -1,0 +1,1 @@
+!function(i){const o=i.cs=i.cs||{};o.dictionary=Object.assign(o.dictionary||{},{Activity:"Aktivity","Animals & Nature":"Zvířata a příroda",Emoji:"","Emoji categories":"Kategorie Emoji",Flags:"Vlajky","Food & Drink":"Jídlo a nápoje",Objects:"Objekty",Symbols:"Symboly","Travel & Places":"Cestování a místa"})}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
